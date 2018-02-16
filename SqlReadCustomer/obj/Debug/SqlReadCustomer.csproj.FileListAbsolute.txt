@@ -1,0 +1,5 @@
+c:\repos\SqlReadCustomerSolution\SqlReadCustomer\bin\Debug\SqlReadCustomer.dll
+c:\repos\SqlReadCustomerSolution\SqlReadCustomer\bin\Debug\SqlReadCustomer.pdb
+c:\repos\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.csproj.CoreCompileInputs.cache
+c:\repos\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.dll
+c:\repos\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.pdb
